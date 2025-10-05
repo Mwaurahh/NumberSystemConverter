@@ -126,6 +126,7 @@ class _ConverterScreenState extends State<ConverterScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+       extendBodyBehindAppBar: false,
       // ... (AppBar and SafeArea body structure)
       appBar: AppBar(
         title: const Text(
