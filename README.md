@@ -43,7 +43,7 @@ This intermediate conversion through decimal simplifies the logic and ensures ac
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Mwaurahh/NumberSystemConverter>
 cd number-converter
 ```
 
