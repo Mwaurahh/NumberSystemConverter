@@ -1,3 +1,4 @@
+
 # Number System Converter
 
 A Flutter mobile application that converts numbers between different number systems including Decimal, Binary, Octal, and Hexadecimal.
@@ -48,16 +49,62 @@ cd number-converter
 ```
 
 2. Install dependencies:
+=======
+# Number Systems Converter
+
+A Flutter application that converts numbers between different number systems (Decimal, Binary, Octal, and Hexadecimal).
+
+## Features
+
+- Convert between multiple number systems:
+  - Decimal (Base 10)
+  - Binary (Base 2)
+  - Octal (Base 8)
+  - Hexadecimal (Base 16)
+- User-friendly interface with dark theme
+- Real-time conversion
+- Support for large numbers using BigInt
+- Error handling for invalid inputs
+- Selectable result text
+
+## Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Dart SDK
+- Android Studio / VS Code
+- Git
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/numbersystemsconverter.git
+```
+
+2. Navigate to the project directory:
+```bash
+cd numbersystemsconverter
+```
+
+3. Install dependencies:
+
 ```bash
 flutter pub get
 ```
 
+
 3. Run the app:
+=======
+4. Run the app:
+
 ```bash
 flutter run
 ```
 
 ## Usage
+
 
 1. **Enter a Number**: Type the number you want to convert in the input field
 2. **Select Source System**: Use the "Convert From" dropdown to select the number system of your input
@@ -136,3 +183,34 @@ Created as a learning project to demonstrate Flutter development and number syst
 ## Support
 
 For issues, questions, or suggestions, please open an issue in the repository.
+=======
+1. Enter a number in the input field
+2. Select the source number system from the "Convert From" dropdown
+3. Select the target number system from the "Convert To" dropdown
+4. Click the "CONVERT" button or wait for automatic conversion
+5. View the result in the bottom section
+
+## Screenshots
+
+[Add screenshots of your app here]
+
+## Technical Details
+
+- Built with Flutter and Dart
+- Uses MaterialApp for theming and widgets
+- Implements StatefulWidget for dynamic updates
+- Handles number conversions using BigInt for large numbers
+- Custom error handling for invalid inputs
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
