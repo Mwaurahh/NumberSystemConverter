@@ -75,8 +75,6 @@ Students, developers, and anyone needing cross-base conversions for educational 
 - assets/ (if used)
 - documentation/ (this document)
 
-> Update paths above if your structure differs.
-
 ---
 
 ## 3. Application Flow
