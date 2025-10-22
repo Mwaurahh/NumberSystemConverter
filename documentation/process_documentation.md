@@ -4,11 +4,11 @@
 - Project Name: Number System Converter Application
 - Platform: Flutter/Dart
 - Document Version: 1.0
-- Last Updated: October 14, 2025
+- Last Updated: October 22, 2025
 
 Team Members:
 - Alex Mwangi — https://github.com/Aleckqhie
-- Anthony Chege - 
+- Anthony Chege - https://github.com/tonilency
 - Samson Mwaurah — https://github.com/Mwaurahh
 - Alvin Mugo — https://github.com/Tamperke42
 - Mike Moreti — https://github.com/garisonmike
