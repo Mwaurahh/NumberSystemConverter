@@ -230,7 +230,6 @@ String convert(String input, String fromSystem, String toSystem) {
 - User-friendly language
 
 ---
-
 ## 8. Testing Guidelines
 
 ### Unit Testing Scenarios
